@@ -2,8 +2,8 @@
 
 ### This is my portfolio on my elective course from LinkedIn Learning:
 
-###### Learning paths in this course:
+#### Learning paths in this course:
 
 - Improve Your JavaScript Language Skills
-(https://www.linkedin.com/learning/paths/improve-your-javascript-language-skills?u=37487420)
+<br>(https://www.linkedin.com/learning/paths/improve-your-javascript-language-skills?u=37487420)
 
